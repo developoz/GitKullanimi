@@ -26,4 +26,4 @@ git add <dosyaismi> veya git add . ile dosyaları working directory'den --> stag
 
 #Lokal Repoya kaydetme işlemi (Staging are --> Local Repo)
 
-git commit -m ""
+git commit -m "Commit Mesajı"
